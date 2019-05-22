@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "default",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DevOps Neuromancer"
+title                    : "Part Science, Part Engineering"
 title_separator          : "-"
 name                     : "Michael Medley"
-description              : "Building tools to automate."
+description              : "Turning science into engineering"
 url                      : "https://mmedley.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmedley/mmedley.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,9 +83,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "mmedley"
 facebook:
-  username               :
+  username               : "michaelmedley"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Michael Medley"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I like the internet."
+  location         : "Nashville, TN"
   email            :
   links:
     - label: "Email"
@@ -120,16 +120,16 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/mmedley"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/mmedley"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/thisismichaelmedley/  "
 
 # Site Footer
 footer:
