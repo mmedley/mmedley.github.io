@@ -1,0 +1,4 @@
+git clone --recursive  https://github.com/mmedley/dotfiles.git ~/.dotfiles
+cd ~/.dotfiles
+./install.sh
+cd -
